@@ -1,0 +1,19 @@
+name: Dart Quest Lab 01 submission
+description: Submit only your register number and GitHub repository URL.
+title: "Lab 01 submission"
+labels: ["lab01-submission"]
+body:
+  - type: input
+    id: regnumber
+    attributes:
+      label: Register number
+      placeholder: 26PCA101
+    validations:
+      required: true
+  - type: input
+    id: github_repo
+    attributes:
+      label: GitHub repository
+      placeholder: https://github.com/username/flutter-dart-lab
+    validations:
+      required: true
