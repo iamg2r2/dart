@@ -30,4 +30,4 @@ Standalone 15-mission Dart beginner lab, hosted from **iamg2r2/dart**.
 
 15 missions cover `main()`, `print()`, variables, `String`, `int`, `double`, `bool`, `num`, `dynamic`, `final`, `const`, null safety, `??`, string interpolation, arithmetic, conversion and `stdin.readLineSync()`. No `if/else`, loops, collections or custom functions.
 
-Missions 13–15 require a local Dart console rather than DartPad.
+Missions 13–15 use stdin.readLineSync(); if interactive input does not work in Programiz, run these programs in a local Dart console.
